@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>D9E36A1A-6CCF-4DAD-968D-CFCA20E3BE95</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Cells</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>4AC6C5CC-196B-4346-B60B-FAB31B1A958E</key>
+		<string>https://github.com/dexterlaunchlabs/Chapter8.2.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Cells/Cells.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>4AC6C5CC-196B-4346-B60B-FAB31B1A958E</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/dexterlaunchlabs/Chapter8.2.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>4AC6C5CC-196B-4346-B60B-FAB31B1A958E</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>4AC6C5CC-196B-4346-B60B-FAB31B1A958E</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Chapter8.2</string>
+		</dict>
+	</array>
+</dict>
+</plist>
